@@ -1,1 +1,5 @@
-# algoritimos-geneticos
+Projeto: Algoritmos Genéticos
+
+Matéria: Inteligência Artificial (7ª fase)
+
+Ciência da Computação - Universidade Federal da Fronteira Sul
